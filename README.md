@@ -1,6 +1,6 @@
 # Welcome to my Profile!
 
-My name is Taylor and I'm a software developer in Vancouver Canada. After working in account management and business development for several years, I a number of self taught courses on python and web development based on my interest in the field. I love problem solving and increasing efficiency, and I found I really have a passion for learning more. 
+My name is Taylor and I'm a software developer in Vancouver Canada. After working in account management and business development for several years, I took a number of self taught courses on python and web development based on my interest in the field. I love problem solving and increasing efficiency, and I found I really have a passion for learning more. 
 
 After a year of consideration and small amounts of self teaching on the side, I joined BrainStation, a full-time software development bootcamp in Vancouver to take the next steps in my career. I loved the experience, the education team, and the connections I made along the way.
 
