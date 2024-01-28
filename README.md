@@ -25,6 +25,7 @@ My Brainstation capstone project where I mimic the functionality of a customer r
 #### Video Player App
 A full-stack react project with Express server backend. Mimics popular video player functionality with full comments section.
 
+- https://brainflix-tm.netlify.app/ (The hosted server may take several seconds to start initially)
 - https://github.com/tmaxwell-96/taylor-maxwell-brainflix
 - https://github.com/tmaxwell-96/taylor-maxwell-brainflix-api
 <!--
